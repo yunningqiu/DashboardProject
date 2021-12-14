@@ -1,4 +1,4 @@
-# DashboardProject
+# Plotly Visualization: descriptive (box, table, chart, parallel categories), callback diagrams
 Dashboard (boxes, line graphs, a table, bar charts, a parallel category graph, a scatter plot) that reveals insights into movies that receive the highest ratings, revenue and awards to help movie investors make better decisions about what kind of movies to invest in.
 
 Findings:
